@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-<br>🎓 Computer Science Student  <br>💻 Passionate about Web Development & Machine Learning  <br>🌱 I"m currently learning on Java Full Stack Development<br>
+<br>🎓 Computer Science Student <br>🏫 Studied at Maharaja Institute Of Technology Mysore <br>💻 Passionate about Web Development & Machine Learning  <br>🌱 I"m currently learning on Java Full Stack Development<br>
 
 
 ## 🌐 Socials:
